@@ -1,0 +1,6 @@
+{
+  "name": "Agent Swarm Orchestrator",
+  "description": "Visual node-based editor for orchestrating agent swarms, defining roles, and routing tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
